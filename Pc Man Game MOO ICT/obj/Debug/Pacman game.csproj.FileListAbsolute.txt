@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\bin\Debug\Pc Man Game MOO ICT.exe.config
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\bin\Debug\Pc Man Game MOO ICT.exe
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\bin\Debug\Pc Man Game MOO ICT.pdb
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pacman game.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pacman game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pc_Man_Game_MOO_ICT.GameLogic.resources
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pc_Man_Game_MOO_ICT.Menu.resources
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pc_Man_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pacman game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pacman game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pc Man Game MOO ICT.exe
+C:\Users\User\Desktop\Pacman\Pc Man Game MOO ICT\obj\Debug\Pc Man Game MOO ICT.pdb
